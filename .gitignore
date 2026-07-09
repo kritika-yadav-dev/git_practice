@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+
+# PyCharm
+.idea/
+
+# Python Cache
+__pycache__/
+
+# Pytest
+.pytest_cache/
+
+# Compiled files
+*.pyc
+
+# Backup files
+*~
