@@ -11,3 +11,5 @@ Topics to Learn
 7. Git Pull
 8. Git Branch
 9. Git Merge
+10. Git Remote
+11. Git Pull Request
