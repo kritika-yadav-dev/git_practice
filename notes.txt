@@ -11,3 +11,4 @@ Topics to Learn
 7. Git Pull
 8. Git Branch
 9. Git Merge Command
+10. Git Fetch
